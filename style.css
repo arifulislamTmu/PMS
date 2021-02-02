@@ -1,0 +1,178 @@
+*{
+	 margin:0px;
+	 padding:0px;
+ }
+ .main_contant{
+	 margin:0 auto;
+	width:960px;
+   min-height:600px;
+   background-image:url(a.jpg);
+   background-repeat: no-repeat;
+ }
+ 
+ .nav{
+	 width:100%;
+	 height:50px;
+	 background:#75B239;
+ }
+ .nav ul{
+	list-style:none;
+ }
+ .nav ul li{
+	 float:left;
+	 padding:20px;
+	 line-height:10px;
+	 position:relative; 
+ }
+ .nav ul  ul{
+	padding:0;
+	position:absolute;
+	top:100%;
+	left:0;
+	display:none;
+	background-color:#75B239;
+ }
+ .nav ul ul li{
+	float:none;
+	min-width:160px;
+}
+ .nav ul li:hover ul{
+	display:block;
+}
+ .nav ul li a{
+	 font-size:20px;
+	 color:black;
+	 text-decoration:none; 
+ }
+ .nav ul li a:hover{
+	 color:white;
+	 
+ }
+ .header{
+	 width:100%;
+	 min-height:80px;
+	 background:#54c65496;
+	
+	  }
+ .header p{
+	 font-size:50px;
+	 color:#e12714c7;
+	 text-align:center;
+	 line-height:-7px;
+	 
+ }
+ 
+ .newproduct{
+	 
+	 width:100%;
+	 min-height:500px;
+	 background:#90CFE0;
+ }
+ 
+ .tablee{
+	 width:900px;
+	 margin:10px;
+	 border-collapse:collapse;
+ }
+ .tablee td :hover{
+	 background:black;
+ }
+.index{
+	
+	 width:100%;
+	 min-height:435px;
+	
+}
+ .footer{
+	 width:100%;
+	 background:#24293D;
+	 height:70px;
+	
+	 
+ }
+ .footer p{
+	 text-align:center;
+	 color:white;
+	 
+	 line-height:50px;
+ }
+ .footer span{
+	  color:white;
+	 margin-left:20px;
+ }
+ 
+ #log-btn {
+
+    margin-left: 43px;
+    width: 238px;
+    height: 30px;
+    border-radius: 6px;
+    background:#e6e3dbb0;
+    margin-top: 14px;
+
+}
+#log-btn:hover{
+	background:#32cc12b0;
+	
+}
+#email{
+	width:230px;
+	height:30px;
+	margin-left:8px;
+	border-radius:6px;
+	margin-bottom:10px;
+}
+ 
+#pass{
+	width:230px;
+	height:30px;
+	margin-left:8px;
+	border-radius:6px;
+} 
+ .newproducts{
+	  width:100%;
+	 min-height:430px;
+	
+ }
+ 
+ .log_box {
+
+        margin-top: 57px;
+    width: 436px;
+    height: 298px;
+    border: 3px solid 
+#618e34e6;
+background:
+#e6c79f82;
+border-radius: 18px;
+
+}
+ 
+ .sales {
+    width: 500px;
+    height: auto;
+    margin-top: 179px;
+    margin-left: -653px;
+}
+ 
+ .botoon{
+width: 132px;
+background:red;
+height: 49px;
+color:white;
+font-size:19px;
+border-radius:11px;
+margin-left:437px;
+margin-top:175px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
